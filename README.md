@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Rakesh</h1>
 <h3 align="center">"I'm Nikhil Rakesh, a seasoned self-taught MERN stack developer with a strong passion for crafting immersive web experiences and innovative applications. My skills extend across a range of programming languages, including JavaScript, C, and Java, as well as technologies like Node.js, Express, and MongoDB.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilrakesh" /> </p>
+
 
 
 
