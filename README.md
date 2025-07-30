@@ -20,25 +20,6 @@ I’m a passionate software developer and the Co-Founder & CTO of **Appmine Stud
 
 ---
 
-🧰 **Tech Stack**
-
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
-<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
-<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" />
-<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
-<img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop" />
-
----
-
 📊 **GitHub Stats**
 
 <p align="left">
