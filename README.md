@@ -13,17 +13,9 @@ I’m a passionate software developer and the Co-Founder & CTO of **Appmine Stud
 
 ---
 
-📚 **Currently Learning**
-
-- Next.js, Microservices, System Design
-- React best practices, Advanced DSA
-
----
-
 📫 **Reach Me At**  
 **Email:** nikhilrakeshh@gmail.com  
 **LinkedIn:** [linkedin.com/in/nikhilrakesh](https://linkedin.com/in/nikhilrakesh)  
-**Instagram:** [@ni_kz__](https://instagram.com/ni_kz__)  
 **LeetCode:** [nikhil rakesh](https://leetcode.com/nikhil%20rakesh)
 
 ---
