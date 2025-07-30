@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nikhil Rakesh</h1>
-<h3 align="center">"I'm Nikhil Rakesh, a seasoned self-taught MERN stack developer with a strong passion for crafting immersive web experiences and innovative applications. My skills extend across a range of programming languages, including JavaScript, C, and Java, as well as technologies like Node.js, Express, and MongoDB.</h3>
+<h1 align="center">Hi, I'm Nikhil Rakesh</h1>
+<h3 align="center">Co-Founder & CTO | Software Developer</h3>
 
+---
 
+🚀 **About Me**
 
+I’m a passionate software developer and the Co-Founder & CTO of **Appmine Studio** and **BrandsInfo**.
 
+- 🛠 I build modern web apps, scalable backend systems, and intuitive user experiences.
+- 🌍 At **Appmine Studio**, we craft digital solutions that combine function and aesthetics.
+- 📍 With **BrandsInfo**, I'm reshaping how users discover and connect with local businesses.
 
-- 🔭 I’m currently working on **an Ecommerce website**
+---
 
-- 🌱 I’m currently learning **React,Data structure , Nextjs and Microservice**
+📚 **Currently Learning**
 
-- 📫 How to reach me **nikhilrakeshh@gmail.com**
+- Next.js, Microservices, System Design
+- React best practices, Advanced DSA
 
-<h3 align="left">Connect with me:</h3>
+---
+
+📫 **Reach Me At**  
+**Email:** nikhilrakeshh@gmail.com  
+**LinkedIn:** [linkedin.com/in/nikhilrakesh](https://linkedin.com/in/nikhilrakesh)  
+**Instagram:** [@ni_kz__](https://instagram.com/ni_kz__)  
+**LeetCode:** [nikhil rakesh](https://leetcode.com/nikhil%20rakesh)
+
+---
+
+🧰 **Tech Stack**
+
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+<img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" />
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+<img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" />
+<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
+<img src="https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop" />
+
+---
+
+📊 **GitHub Stats**
+
 <p align="left">
-<a href="https://linkedin.com/in/nikhil rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil rakesh" height="30" width="40" /></a>
-<a href="https://instagram.com/ni_kz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ni_kz__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nikhil rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil rakesh" height="30" width="40" /></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhilrakesh&show_icons=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrakesh&layout=compact&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilrakesh&show_icons=true&locale=en&layout=compact" alt="nikhilrakesh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilrakesh&show_icons=true&locale=en" alt="nikhilrakesh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrakesh&" alt="nikhilrakesh" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrakesh&hide_border=true" alt="GitHub Streak" />
+</p>
