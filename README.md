@@ -17,9 +17,3 @@ I’m a passionate software developer and the Co-Founder & CTO of **Appmine Stud
 **Email:** nikhilrakeshh@gmail.com  
 **LinkedIn:** [linkedin.com/in/nikhilrakesh](https://linkedin.com/in/nikhilrakesh)  
 **LeetCode:** [nikhil rakesh](https://leetcode.com/nikhil%20rakesh)
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrakesh&hide_border=true" alt="GitHub Streak" />
-</p>
