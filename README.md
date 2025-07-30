@@ -20,13 +20,6 @@ I’m a passionate software developer and the Co-Founder & CTO of **Appmine Stud
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhilrakesh&show_icons=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilrakesh&layout=compact&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilrakesh&hide_border=true" alt="GitHub Streak" />
 </p>
